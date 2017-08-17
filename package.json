@@ -1,0 +1,40 @@
+{
+  "name": "cleanxml",
+  "version": "1.0.0",
+  "description": "Clean up a freshly converted XML-to-JSON object in a sensible way",
+  "keywords": [
+    "clean",
+    "xml",
+    "json"
+  ],
+  "homepage": "https://github.com/tflanagan/node-cleanxml",
+  "bugs": {
+    "url": "https://github.com/tflanagan/node-cleanxml/issues",
+    "email": "contact@tristianflanagan.com"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Tristian Flanagan",
+    "url": "https://github.com/tflanagan",
+    "email": "contact@tristianflanagan.com"
+  },
+  "maintainers": [
+    {
+      "name": "Tristian Flanagan",
+      "url": "https://github.com/tflanagan",
+      "email": "contact@tristianflanagan.com"
+    }
+  ],
+  "contributors": [
+    "Tristian Flanagan <contact@tristianflanagan.com> (https://github.com/tflanagan)"
+  ],
+  "main": "src/cleanxml.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tflanagan/node-cleanxml.git"
+  },
+  "engines": {
+    "node": ">=4.0.*"
+  },
+  "git": "https://github.com/tflanagan/node-cleanxml.git"
+}
