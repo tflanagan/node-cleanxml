@@ -1,6 +1,6 @@
 {
   "name": "cleanxml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clean up a freshly converted XML-to-JSON object in a sensible way",
   "keywords": [
     "clean",

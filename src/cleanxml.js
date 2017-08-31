@@ -23,7 +23,7 @@ const radix = 10;
 
 /* Clean XMl */
 const cleanXML = function(xml){
-	if(!xml){
+	if(!xml || typeof(xml) !== 'object'){
 		return xml;
 	}
 
